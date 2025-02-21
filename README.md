@@ -54,10 +54,9 @@ Se utilizará una rúbrica compartida entre los socios que evaluará los siguien
 | **Impacto del proyecto** | Documentación detallada y promoción efectiva en redes. | Documentación básica con poca promoción. | No se ha documentado ni difundido correctamente. |
 
 ### Difusión
-- **Publicación del sitio web**: Se alojará en un dominio accesible al público.
-- **Evento virtual de presentación**: Cada equipo expondrá su contribución al proyecto.
+- **Publicación del sitio web**: Se alojará en github pages para tener acceso al público.
+- **Evento virtual de presentación**: Cada equipo expondrá su contribución al proyecto en una videoconferencia.
 - **Blog en TwinSpace**: Documentación del proceso y resultados con testimonios de los estudiantes.
 - **Promoción en redes sociales**: Uso de hashtags específicos para aumentar la visibilidad del proyecto en plataformas como Instagram y Twitter.
 
-Con este enfoque, el proyecto garantiza claridad, objetivos alcanzables, una actividad colaborativa bien definida y una evaluación detallada, cumpliendo así con la máxima puntuación en la rúbrica.
 
